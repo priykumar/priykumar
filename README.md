@@ -1,6 +1,7 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">   I'm Priyanshu
 
-![](https://komarev.com/ghpvc/?username=priykumar&abbreviated=true&base=1000)
+<!-- ![](https://komarev.com/ghpvc/?username=priykumar&abbreviated=true&base=1000)-->
+![](https://komarev.com/ghpvc/?username=priykumar&base=1000)
 
 ## 👨🏻‍💻 About Me  
 💡  **Backend Engineer** with 6+ years specializing in distributed architectures, high-performance APIs, and infrastructure automation   
