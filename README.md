@@ -6,6 +6,7 @@ I'm a Computer Science + Electronics & Communication Science Engineer with 6+ YO
 Staff Backend Engineer at a startup, building scalable systems and infrastructure  
 
 <!--
+ADD 2 SPACES AT THE END OF LINE TO GET NEWLINE
 **priykumar/priykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Staff Backend Engineer building scalable systems and infrastructure
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 Let's Connect
+📫 **Let's Connect**  
 💼 Open to backend engineering opportunities  
 🤝 Always happy to discuss system design and infrastructure  
 📧 pagrawalww@gmail.com  
