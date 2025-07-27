@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hey there 👋 I'm Priyanshu
 
 ![](https://komarev.com/ghpvc/?username=priykumar)
+
+Staff Backend Engineer at a startup, building scalable systems and infrastructure
 
 <!--
 **priykumar/priykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Let's Connect**
+📫 Let's Connect
 💼 Open to backend engineering opportunities
 🤝 Always happy to discuss system design and infrastructure
 📧 pagrawalww@gmail.com
-💼 https://www.linkedin.com/in/priykumar/
+💼 LinkedIn
