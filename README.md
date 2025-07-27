@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=priykumar)
 
-I'm a Computer Science + Electronics & Communication Science Engineer with 6+ YOE
-Staff Backend Engineer at a startup, building scalable systems and infrastructure
+I'm a Computer Science + Electronics & Communication Science Engineer with 6+ YOE  
+Staff Backend Engineer at a startup, building scalable systems and infrastructure  
 
 <!--
 **priykumar/priykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 Let's Connect
-💼 Open to backend engineering opportunities\n
-🤝 Always happy to discuss system design and infrastructure\n
-📧 pagrawalww@gmail.com
-💼 LinkedIn
+💼 Open to backend engineering opportunities  
+🤝 Always happy to discuss system design and infrastructure  
+📧 pagrawalww@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/priykumar/)  
