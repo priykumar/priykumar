@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Priyanshu
+## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">   I'm Priyanshu
 
 ![](https://komarev.com/ghpvc/?username=priykumar)
 
