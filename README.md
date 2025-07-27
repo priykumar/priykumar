@@ -2,10 +2,21 @@
 
 ![](https://komarev.com/ghpvc/?username=priykumar)
 
-👨🏻‍💻  **About Me**  
-💡  I'm a Computer Science + Electronics & Communication Science Engineer with 6+ YOE, building scalable systems and infrastructure  
-🎓  I'm an alumnus of PES University, Bangalore.   
+## 👨🏻‍💻 About Me  
+💡  **Backend Engineer** with 6+ years specializing in distributed architectures, high-performance APIs, and infrastructure automation   
+🎓 Computer Science + Electronics graduate from [PES University, Bangalore](https://pes.edu/)  
+🚀 Passionate about system design, infrastructure automation, and high-performance APIs    
+🤝 Always happy to discuss system design and infrastructure  
+     
+     
+## 🛠️ Tech Arsenal    
+🐹 Go • 🐍 Python • 🌐 C++  
+☁️ AWS  •  ⚙️ Kubernetes  •  🐳 Docker  •  💾 Redis  •  🌐 NGINX  
+🔗 REST APIs  •  🏗️ Microservices  •  🚀 CI/CD  •  🤖 Network Automation  
 
+## 🌟 Currently Exploring  
+•  Advanced Go patterns for microservices  
+•  Kubernetes optimization techniques  
 <!--
 ADD 2 SPACES AT THE END OF LINE TO GET NEWLINE
 **priykumar/priykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 **Let's Connect**  
-💼 Open to backend engineering opportunities  
-🤝 Always happy to discuss system design and infrastructure  
-📧 [Mail](pagrawalww@gmail.com)  
+## 📫 How to reach me   
 💼 [LinkedIn](https://www.linkedin.com/in/priykumar/)  
+📧 [Mail](pagrawalww@gmail.com) 
