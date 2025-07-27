@@ -2,8 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=priykumar)
 
-I'm a Computer Science + Electronics & Communication Science Engineer with 6+ YOE  
-Staff Backend Engineer at a startup, building scalable systems and infrastructure  
+👨🏻‍💻  **About Me**  
+💡  I'm a Computer Science + Electronics & Communication Science Engineer with 6+ YOE, building scalable systems and infrastructure  
+🎓  I'm an alumnus of PES University, Bangalore.   
 
 <!--
 ADD 2 SPACES AT THE END OF LINE TO GET NEWLINE
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 📫 **Let's Connect**  
 💼 Open to backend engineering opportunities  
 🤝 Always happy to discuss system design and infrastructure  
-📧 pagrawalww@gmail.com  
+📧 [Mail](pagrawalww@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/priykumar/)  
